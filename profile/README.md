@@ -1,3 +1,3 @@
 # Welcome to my organization 🤘
 
-![](my-octocat-x250.png)
+![](/odelmotte/.github/raw/main/profile/my-octocat-x250.png)
