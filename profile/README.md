@@ -1,3 +1,3 @@
-# Welcome to the odelmotte organization 🤘
+# Welcome to my organization 🤘
 
-![Graou](graou.png)
+![Graou](my-octocat-x250.png)
