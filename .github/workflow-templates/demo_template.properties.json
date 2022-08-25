@@ -1,0 +1,11 @@
+{
+    "name": "Hello world demo workflow",
+    "description": "Sample of template workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "CI"
+    ],
+    "filePatterns": [
+        ".*\\.md$"
+    ]
+}
